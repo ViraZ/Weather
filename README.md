@@ -1,1 +1,2 @@
 # Weather
+# python weather.py
